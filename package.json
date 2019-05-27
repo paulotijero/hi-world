@@ -1,7 +1,21 @@
 {
-  "name": "npm-hi-world",
+  "name": "hi_world",
   "version": "1.0.0",
+  "description": "The only work that this npm performs is to say hi world",
   "main": "index.js",
-  "author": "paulotijero <paulotijero@gmail.com>",
+  "scripts": {
+    "test": "echo "Error: no test specified" && exit 1"
+  },
+  "keywords": [
+    "hi_world",
+    "hi",
+    "wolrd",
+    "codeable"
+  ],
+  "author": {
+    "name": "paulotijero",
+    "email": "paulotijero@gmail.com",
+    "url": "https://paulotijero.dev"
+  },
   "license": "MIT"
 }
