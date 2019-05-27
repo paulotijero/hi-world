@@ -17,5 +17,8 @@
     "email": "paulotijero@gmail.com",
     "url": "https://paulotijero.dev"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "microbundle": "^0.11.0"
+  }
 }
