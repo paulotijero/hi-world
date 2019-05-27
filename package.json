@@ -1,0 +1,7 @@
+{
+  "name": "npm-hi-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "paulotijero <paulotijero@gmail.com>",
+  "license": "MIT"
+}
