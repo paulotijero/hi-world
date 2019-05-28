@@ -12,6 +12,11 @@
     "prepublish": "yarn build",
     "prebuild": "yarn test"
   },
+  "repository": "https://github.com/paulotijero/hi-world",
+  "homepage": "https://github.com/paulotijero/hi-world#readme",
+  "bugs": {
+    "url": "https://github.com/paulotijero/hi-world/issues"
+  },
   "keywords": [
     "hi_world",
     "hi",
