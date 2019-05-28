@@ -20,10 +20,16 @@ npm install hi_world
 
 ## Usage
 
-```js
-const randomEmoji = require("@cristianbgp/random-emoji");
+Import the module
 
-console.log(randomEmoji());
+```js
+const hiWorld = require("hi-world");
+```
+
+You will have available the function `hiWorld`.
+
+```js
+hiWorld();
 ```
 
 ## Contributing
