@@ -1,6 +1,6 @@
 {
-  "name": "@paulotijero/hi_world",
-  "version": "1.0.1",
+  "name": "@paulotijero/hi-world",
+  "version": "1.0.2",
   "description": "The only work that this module performs is to say hi world",
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",

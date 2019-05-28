@@ -1,4 +1,4 @@
-# hi_world
+# @paulotijero/hi-world
 
 This is my first published module and says "Hi world!"
 
@@ -7,18 +7,18 @@ This is my first published module and says "Hi world!"
 With `yarn`
 
 ```bash
-yarn add hi_world
+yarn add @paulotijero/hi_world
 ```
 
 With npm
 
 ```bash
-npm install hi_world
+npm install @paulotijero/hi_world
 ```
 
 ## Usage
 
-Import the module
+Import the module in your file `js`
 
 ```js
 const hiWorld = require("@paulotijero/hi_world");
