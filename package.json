@@ -1,7 +1,7 @@
 {
-  "name": "hi_world",
+  "name": "@paulotijero/hi_world",
   "version": "1.0.0",
-  "description": "The only work that this npm performs is to say hi world",
+  "description": "The only work that this module performs is to say hi world",
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",
   "module": "dist/index.mjs",

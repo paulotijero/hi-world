@@ -4,8 +4,6 @@ This is my first published module and says "Hi world!"
 
 ## Installation
 
-<!-- The first step is adding the modelu in your Gemafile -->
-
 With `yarn`
 
 ```bash
@@ -23,7 +21,7 @@ npm install hi_world
 Import the module
 
 ```js
-const hiWorld = require("hi-world");
+const hiWorld = require("@paulotijero/hi_world");
 ```
 
 You will have available the function `hiWorld`.
