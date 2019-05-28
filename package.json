@@ -8,7 +8,9 @@
   "source": "src/index.js",
   "scripts": {
     "test": "jest",
-    "build": "microbundle"
+    "build": "microbundle",
+    "prepublish": "yarn build",
+    "prebuild": "yarn test"
   },
   "keywords": [
     "hi_world",
