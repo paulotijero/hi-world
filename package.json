@@ -2,7 +2,10 @@
   "name": "hi_world",
   "version": "1.0.0",
   "description": "The only work that this npm performs is to say hi world",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "umd:main": "dist/index.umd.js",
+  "module": "dist/index.mjs",
+  "source": "src/index.js",
   "scripts": {
     "test": "jest",
     "build": "microbundle"
